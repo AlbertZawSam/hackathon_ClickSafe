@@ -1,0 +1,6 @@
+https://example.com
+https://google.com
+https://github.com
+https://android.com
+https://kotlinlang.org
+https://tg.app-telegram.icu
